@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoard", "WhiteBoard\WhiteBoard.csproj", "{18DC6C6D-4716-4E77-862D-DFD0CAA4C6F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhiteBoardTests", "WhiteBoardTests\WhiteBoardTests.csproj", "{2154B9FA-7351-434F-97E4-DAE8D9884861}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DC6C6D-4716-4E77-862D-DFD0CAA4C6F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DC6C6D-4716-4E77-862D-DFD0CAA4C6F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DC6C6D-4716-4E77-862D-DFD0CAA4C6F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DC6C6D-4716-4E77-862D-DFD0CAA4C6F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2154B9FA-7351-434F-97E4-DAE8D9884861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2154B9FA-7351-434F-97E4-DAE8D9884861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2154B9FA-7351-434F-97E4-DAE8D9884861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2154B9FA-7351-434F-97E4-DAE8D9884861}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5803714-0B77-4FE4-AC97-91DA6192F526}
+	EndGlobalSection
+EndGlobal
